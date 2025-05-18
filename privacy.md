@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Teacher Button Enabler**
+**Pedell Extension**
 
 This Chrome extension does not collect, store, or transmit any personal or sensitive user data.
 
-It operates entirely on the user's local browser and only modifies the structure of a specific page on the internal school network (`http://gazdagep/*`).
+It operates entirely on the user's local browser and only modifies the structure of a specific page on the internal school network (`https://bodaszilard.hopto.org/app/#/app/homeworks`).
 
 No information is collected or shared with third parties. The extension does not use tracking, analytics, or any external services.
 
